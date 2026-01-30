@@ -14,7 +14,7 @@ Computer Science Student | Glendale Community College<br><br>Eager To Learn Fiel
 ![](https://nirzak-streak-stats.vercel.app/?user=AOP-GOM-7574&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AOP-GOM-7574&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
